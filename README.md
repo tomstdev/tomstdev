@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tomstdev
+- 👀 I’m interested in new frameworks as flutter and others.
+- 🌱 I’m currently learning kotlin and dart.
